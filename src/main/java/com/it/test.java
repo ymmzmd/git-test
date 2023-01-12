@@ -15,6 +15,7 @@ public class test {
         System.out.println(m1.compareTo(m2));
         System.out.println(m2.setScale(1, RoundingMode.CEILING));
         System.out.println("-----");
+        System.out.println("---------------------");
 
 
     }
